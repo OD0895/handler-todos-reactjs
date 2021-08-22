@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/OD0895/handler-todos-reactjs/static/css/main.43d5eabc.chunk.css",
+    "main.js": "/OD0895/handler-todos-reactjs/static/js/main.1f07c4c8.chunk.js",
+    "main.js.map": "/OD0895/handler-todos-reactjs/static/js/main.1f07c4c8.chunk.js.map",
+    "runtime-main.js": "/OD0895/handler-todos-reactjs/static/js/runtime-main.1be5599b.js",
+    "runtime-main.js.map": "/OD0895/handler-todos-reactjs/static/js/runtime-main.1be5599b.js.map",
+    "static/js/2.ea5e5a41.chunk.js": "/OD0895/handler-todos-reactjs/static/js/2.ea5e5a41.chunk.js",
+    "static/js/2.ea5e5a41.chunk.js.map": "/OD0895/handler-todos-reactjs/static/js/2.ea5e5a41.chunk.js.map",
+    "index.html": "/OD0895/handler-todos-reactjs/index.html",
+    "static/css/main.43d5eabc.chunk.css.map": "/OD0895/handler-todos-reactjs/static/css/main.43d5eabc.chunk.css.map",
+    "static/js/2.ea5e5a41.chunk.js.LICENSE.txt": "/OD0895/handler-todos-reactjs/static/js/2.ea5e5a41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1be5599b.js",
+    "static/js/2.ea5e5a41.chunk.js",
+    "static/css/main.43d5eabc.chunk.css",
+    "static/js/main.1f07c4c8.chunk.js"
+  ]
+}
